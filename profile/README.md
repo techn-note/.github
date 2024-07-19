@@ -1,4 +1,11 @@
-# Technote - Desenvolvedores de Tecnologia!
+<h1 align="center">Technote - Desenvolvedores de Tecnologia!.</h1><br>
+
+<p align="center">
+  <a href="https://techn-note.github.io/Technote-Web/">
+    <img src="https://avatars.githubusercontent.com/u/169862176?s=400&u=993a69b33d0d0bc8a3310c7cb2654c38a4c06c28&v=4" background-color="#ffffff" alt="Technote Logo" height="140">
+  </a>
+</p>
+
 Bem-vindo ao repositório da equipe Technote! Somos um grupo de desenvolvedores apaixonados por tecnologia, comprometidos em criar soluções inovadoras para os desafios do mundo moderno. Nossa equipe é composta por profissionais talentosos e criativos, especializados em diversas áreas da tecnologia.
 
 # Quem somos
@@ -17,6 +24,6 @@ O projeto tem como propósito criar um sitema Desktop em java para supervisionar
 # Serviços
 Nosso foco principal está no desenvolvimento mobile, web e UX/UI design. Nossa equipe é especializada em criar aplicativos e sites responsivos, intuitivos e visualmente atraentes. Se você precisa de um aplicativo para iOS ou Android, uma plataforma web personalizada ou uma interface de usuário bem projetada, estamos prontos para ajudar. Nós trabalhamos em estreita colaboração com você para entender suas necessidades e transformar suas ideias em realidade.
 
-Agradecemos por visitar nossa organização no GitHub! Se você estiver interessado em conhecer mais, convido a acessar a nossa pagina https://eliharison.github.io/Technote. Sinta-se à vontade para explorar nosso código e entrar em contato conosco!
+Agradecemos por visitar nossa organização no GitHub! Se você estiver interessado em conhecer mais, convido a acessar a nossa pagina [https://eliharison.github.io/Technote](https://techn-note.github.io/Technote-Web/). Sinta-se à vontade para explorar nosso código e entrar em contato conosco!
 
 - Equipe Technote
